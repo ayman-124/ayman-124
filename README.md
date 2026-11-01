@@ -17,4 +17,4 @@ I turn raw data into clear insights that drive business decisions.
 - **[Retail EDA](رابط)** – Exploratory analysis on 500K+ transactions
 
 ## 📫 Contact
-[LinkedIn](رابط) • [Email](mailto:you@email.com) • [Portfolio](رابط)
+[LinkedIn](www.linkedin.com/in/ayman-ahmed-eldeeb) • [Email](eldeebayman37@gmail.com) • [Portfolio](https://aymanahmedresume.lovable.app/)
